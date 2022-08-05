@@ -162,5 +162,4 @@ Watch the robot create a map of the environment as it autonomously moves from pl
 ![Screenshot 2022-08-05 201740](https://user-images.githubusercontent.com/109004035/183128396-b0dded54-f0d5-4304-90ec-ed1f68a0181b.jpg)
 
 And that's all about it! you can experiment and navigate between Automation and controlling the Turtlebot3 using SLAM Mapping !
-
-if you are looking for more in detailed guide, you can also visit this [Guide](https://automaticaddison.com/how-to-launch-the-turtlebot3-simulation-with-ros/)
+Enjoy! :)
