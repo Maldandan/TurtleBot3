@@ -9,7 +9,7 @@ If its your first time working with simulations, chances are you don't have Rviz
 Follow these guides to have everything prepared:
 
 ### Moveit
-**Follow this** [Guide](http://docs.ros.org/en/melodic/api/moveit_tutorials/html/index.html)
+**Follow this** [Guide](http://docs.ros.org/en/melodic/api/moveit_tutorials/html/index.html) 
 
 ### Rviz
 **Follow this** [Guide](https://installati.one/ubuntu/20.04/rviz/)
